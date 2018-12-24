@@ -23,7 +23,7 @@ function inc(a) {
 }
 
 function dec(a) {
-  return a-=1
+  return a-=11
 }
 
 function makeInt(a) {
